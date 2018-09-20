@@ -1,0 +1,139 @@
+languageCode = "en-us"
+title = "Dominic Dixon, Dominic F Dixon"
+baseurl = "http://example.org/"
+theme = "prologue-master"
+
+[params]
+  name = "Dominic Dixon"
+  description = "Nation Building | Public Policy"
+  copyright = "Dominic Dixon 2018."
+
+[params.settings]
+    googleanalytics = "UA-113904582-1"
+    disqus = "dominic-dixon"
+	
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "#"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "INTRODUCTION "
+  slug = "introduction"
+  alt = ""
+  source = "img/pexels-photo-388898.jpeg"
+  url = "/post/pornindia_01"
+  disqusid = "6"
+
+[[params.portfolio1]]
+  title = "Porn on the web "
+  alt = ""
+  source = "img/pexels-photo-423367.jpeg"
+  url = "/post/pornindia_02"
+  
+[[params.portfolio1]]
+  title = "Porn – Induced Mental Dysfunction "
+  alt = ""
+  source = "img/pexels-photo-1230656.jpeg"
+  url = "#"  
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "An epidemic of rape crimes in India "
+  alt = ""
+  source = "img/pexels-photo-690729.jpeg"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "THE BRAIN "
+  alt = ""
+  source = "img/stock-photo-art-brain-artwork-artist-mind-thinker-neurons-1772e618-f671-4928-8ee8-1e0ff42d9400.jpg"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "The Law of Diminishing Returns "
+  alt = ""
+  source = "img/pexels-photo-1065710.jpeg"
+  url = "#"
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Internet porn and kids "
+  alt = ""
+  source = "img/pexels-photo-106400.jpeg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "MIRROR NEURONS"
+  alt = ""
+  source = "img/pexels-photo-1223270.jpeg"
+  url = "#"
+[[params.portfolio3]]
+  title = "The Rape factor "
+  alt = ""
+  source = "img/pexels-photo-1054422.jpeg"
+  url = "#"  
+  # Portfolio column one ---------------------------------------------
+
+[[params.portfolioXXX1]]
+  title = "Kleptocracies - Definitions and understanding "
+  alt = ""
+  source = "img/pexels-photo-1079034.jpeg"
+  url = "#"
+
+[[params.portfolioXXX1]]
+  title = "ESTIMATES OF FUNDS EMBEZZLED FROM 9 COUNTRIES "
+  alt = ""
+  source = "img/pexels-photo-164527.jpeg"
+  url = "#"
+
+# Portfolio column two
+
+[[params.portfolioXXX2]]
+  title = "Scope of Paper & Introduction"
+  alt = ""
+  source = "img/pexels-photo.jpg"
+  url = "#"
+
+[[params.portfolioXXX2]]
+  title = "The 10 Most Corrupt World Leaders of Recent History"
+  alt = ""
+  source = "img/dollar-currency-money-us-dollar-47344.jpeg"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolioXXX3]]
+  title = "Kofi A. Annan, UN Secretary - General statement "
+  alt = ""
+  source = "img/ka.jpeg"
+  url = "#"
+
+[[params.portfolioXXX3]]
+  title = "SYNOPSIS OF COUNTRY CASE STUDIES  "
+  alt = ""
+  source = "img/pexels-photo-342945.jpeg"
+  url = "#"
